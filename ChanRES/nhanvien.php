@@ -68,7 +68,7 @@ nav ul li a:hover {
                         <a href="LOGIN.php"><i class="fa-solid fa-house ico-side"></i>ADMIN</a>
                     </li>
                     <li>
-                        <a href="admin2.php"><i class="fa-solid fa-cart-shopping ico-side"></i>DANH MỤC SP</a>
+                        <a href="admin2.php"><i class="fa-solid fa-cart-shopping ico-side"></i>DANH MỤC SẢN PHẨMPHẨM</a>
                     </li>
                     <li>
                         <a href="dsdb2.php"><i class="fa-solid fa-folder-open ico-side"></i>DANH SÁCH ĐẶT BÀN</a>
@@ -142,7 +142,7 @@ $data = [];
                     <th>STT</th>
                     <th>ID</th>
                     <th>TÊN SP</th>
-                    <th>GIÁ</th>
+                    <th>GIÁ THÀNH</th>
                     <th>Ảnh mô tả</th>
                     <th>SỬA</th>
                     <th>Xóa</th>
